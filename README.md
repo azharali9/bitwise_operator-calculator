@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @azharali9
 - 👀 I’m interested in c++/java/python programming
-- 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on any project related to data structures
 - 📫 Reach me on github so we can further discuss.
 
